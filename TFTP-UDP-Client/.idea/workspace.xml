@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="22d57b54-0856-4656-a050-13cda76b2b9e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2eyl274jW9I9aNPlywi9TFFCK00" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.Client.executor": "Run",
+    "JUnit.TFTPRequestBuilderTest.testPackData.executor": "Run",
+    "JUnit.TFTPRequestBuilderTest.testPackRRQ.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/rafiksongoku/Documents/NetCoursework/TFTP-UDP-Client",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "settings.sync",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Client" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-22" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="TFTP-UDP-Client" />
+      <option name="PROGRAM_PARAMETERS" value="127.0.0.1" />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22d57b54-0856-4656-a050-13cda76b2b9e" name="Changes" comment="" />
+      <created>1712884491858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712884491858</updated>
+      <workItem from="1712884496479" duration="5370000" />
+      <workItem from="1712942033899" duration="7138000" />
+      <workItem from="1712961354191" duration="6317000" />
+      <workItem from="1713037167712" duration="8177000" />
+      <workItem from="1713229768873" duration="3494000" />
+      <workItem from="1713270026944" duration="4694000" />
+      <workItem from="1713436216611" duration="16000" />
+      <workItem from="1713869173694" duration="5000000" />
+      <workItem from="1713884872241" duration="6372000" />
+      <workItem from="1713898672265" duration="259000" />
+      <workItem from="1713914022200" duration="1332000" />
+      <workItem from="1713918611274" duration="528000" />
+      <workItem from="1713919277225" duration="1423000" />
+      <workItem from="1713920831965" duration="205000" />
+      <workItem from="1713921144776" duration="560000" />
+      <workItem from="1713921810899" duration="9901000" />
+      <workItem from="1713957913089" duration="487000" />
+      <workItem from="1714007459826" duration="7061000" />
+      <workItem from="1714020294911" duration="5553000" />
+      <workItem from="1714063057172" duration="2304000" />
+      <workItem from="1714069555856" duration="5711000" />
+      <workItem from="1714123931577" duration="824000" />
+      <workItem from="1714124972070" duration="821000" />
+      <workItem from="1714126093940" duration="1577000" />
+      <workItem from="1714127899919" duration="10280000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

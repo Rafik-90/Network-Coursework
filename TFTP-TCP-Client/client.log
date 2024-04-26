@@ -1,0 +1,1327 @@
+Transform Your File Transfer Process with Our Program!
+Usage: 
+	transmit <filename> - This would upload the file to the server
+	receive <filename> - This would download the file from the server
+	exit - exits the program
+	help - prints this help message
+
+Enter command: Filename: a1.txt
+Sending packet 1 of 5
+Sending packet 2 of 5
+Sending packet 3 of 5
+Sending packet 4 of 5
+Sending packet 5 of 5
+Enter command: Filename: a1.txt
+Getting file: a1.txt
+Received DATA block 1 of size 512 bytes
+Received DATA block 2 of size 512 bytes
+Received DATA block 3 of size 512 bytes
+Received DATA block 4 of size 512 bytes
+Received DATA block 5 of size 491 bytes
+Saving file to: /Users/rafiksongoku/Documents/NetworksCoursework/TFTP-TCP-Client/src/a1.txt
+Enter command: Filename: a2.txt
+Sending packet 1 of 298
+Sending packet 2 of 298
+Sending packet 3 of 298
+Sending packet 4 of 298
+Sending packet 5 of 298
+Sending packet 6 of 298
+Sending packet 7 of 298
+Sending packet 8 of 298
+Sending packet 9 of 298
+Sending packet 10 of 298
+Sending packet 11 of 298
+Sending packet 12 of 298
+Sending packet 13 of 298
+Sending packet 14 of 298
+Sending packet 15 of 298
+Sending packet 16 of 298
+Sending packet 17 of 298
+Sending packet 18 of 298
+Sending packet 19 of 298
+Sending packet 20 of 298
+Sending packet 21 of 298
+Sending packet 22 of 298
+Sending packet 23 of 298
+Sending packet 24 of 298
+Sending packet 25 of 298
+Sending packet 26 of 298
+Sending packet 27 of 298
+Sending packet 28 of 298
+Sending packet 29 of 298
+Sending packet 30 of 298
+Sending packet 31 of 298
+Sending packet 32 of 298
+Sending packet 33 of 298
+Sending packet 34 of 298
+Sending packet 35 of 298
+Sending packet 36 of 298
+Sending packet 37 of 298
+Sending packet 38 of 298
+Sending packet 39 of 298
+Sending packet 40 of 298
+Sending packet 41 of 298
+Sending packet 42 of 298
+Sending packet 43 of 298
+Sending packet 44 of 298
+Sending packet 45 of 298
+Sending packet 46 of 298
+Sending packet 47 of 298
+Sending packet 48 of 298
+Sending packet 49 of 298
+Sending packet 50 of 298
+Sending packet 51 of 298
+Sending packet 52 of 298
+Sending packet 53 of 298
+Sending packet 54 of 298
+Sending packet 55 of 298
+Sending packet 56 of 298
+Sending packet 57 of 298
+Sending packet 58 of 298
+Sending packet 59 of 298
+Sending packet 60 of 298
+Sending packet 61 of 298
+Sending packet 62 of 298
+Sending packet 63 of 298
+Sending packet 64 of 298
+Sending packet 65 of 298
+Sending packet 66 of 298
+Sending packet 67 of 298
+Sending packet 68 of 298
+Sending packet 69 of 298
+Sending packet 70 of 298
+Sending packet 71 of 298
+Sending packet 72 of 298
+Sending packet 73 of 298
+Sending packet 74 of 298
+Sending packet 75 of 298
+Sending packet 76 of 298
+Sending packet 77 of 298
+Sending packet 78 of 298
+Sending packet 79 of 298
+Sending packet 80 of 298
+Sending packet 81 of 298
+Sending packet 82 of 298
+Sending packet 83 of 298
+Sending packet 84 of 298
+Sending packet 85 of 298
+Sending packet 86 of 298
+Sending packet 87 of 298
+Sending packet 88 of 298
+Sending packet 89 of 298
+Sending packet 90 of 298
+Sending packet 91 of 298
+Sending packet 92 of 298
+Sending packet 93 of 298
+Sending packet 94 of 298
+Sending packet 95 of 298
+Sending packet 96 of 298
+Sending packet 97 of 298
+Sending packet 98 of 298
+Sending packet 99 of 298
+Sending packet 100 of 298
+Sending packet 101 of 298
+Sending packet 102 of 298
+Sending packet 103 of 298
+Sending packet 104 of 298
+Sending packet 105 of 298
+Sending packet 106 of 298
+Sending packet 107 of 298
+Sending packet 108 of 298
+Sending packet 109 of 298
+Sending packet 110 of 298
+Sending packet 111 of 298
+Sending packet 112 of 298
+Sending packet 113 of 298
+Sending packet 114 of 298
+Sending packet 115 of 298
+Sending packet 116 of 298
+Sending packet 117 of 298
+Sending packet 118 of 298
+Sending packet 119 of 298
+Sending packet 120 of 298
+Sending packet 121 of 298
+Sending packet 122 of 298
+Sending packet 123 of 298
+Sending packet 124 of 298
+Sending packet 125 of 298
+Sending packet 126 of 298
+Sending packet 127 of 298
+Sending packet 128 of 298
+Sending packet 129 of 298
+Sending packet 130 of 298
+Sending packet 131 of 298
+Sending packet 132 of 298
+Sending packet 133 of 298
+Sending packet 134 of 298
+Sending packet 135 of 298
+Sending packet 136 of 298
+Sending packet 137 of 298
+Sending packet 138 of 298
+Sending packet 139 of 298
+Sending packet 140 of 298
+Sending packet 141 of 298
+Sending packet 142 of 298
+Sending packet 143 of 298
+Sending packet 144 of 298
+Sending packet 145 of 298
+Sending packet 146 of 298
+Sending packet 147 of 298
+Sending packet 148 of 298
+Sending packet 149 of 298
+Sending packet 150 of 298
+Sending packet 151 of 298
+Sending packet 152 of 298
+Sending packet 153 of 298
+Sending packet 154 of 298
+Sending packet 155 of 298
+Sending packet 156 of 298
+Sending packet 157 of 298
+Sending packet 158 of 298
+Sending packet 159 of 298
+Sending packet 160 of 298
+Sending packet 161 of 298
+Sending packet 162 of 298
+Sending packet 163 of 298
+Sending packet 164 of 298
+Sending packet 165 of 298
+Sending packet 166 of 298
+Sending packet 167 of 298
+Sending packet 168 of 298
+Sending packet 169 of 298
+Sending packet 170 of 298
+Sending packet 171 of 298
+Sending packet 172 of 298
+Sending packet 173 of 298
+Sending packet 174 of 298
+Sending packet 175 of 298
+Sending packet 176 of 298
+Sending packet 177 of 298
+Sending packet 178 of 298
+Sending packet 179 of 298
+Sending packet 180 of 298
+Sending packet 181 of 298
+Sending packet 182 of 298
+Sending packet 183 of 298
+Sending packet 184 of 298
+Sending packet 185 of 298
+Sending packet 186 of 298
+Sending packet 187 of 298
+Sending packet 188 of 298
+Sending packet 189 of 298
+Sending packet 190 of 298
+Sending packet 191 of 298
+Sending packet 192 of 298
+Sending packet 193 of 298
+Sending packet 194 of 298
+Sending packet 195 of 298
+Sending packet 196 of 298
+Sending packet 197 of 298
+Sending packet 198 of 298
+Sending packet 199 of 298
+Sending packet 200 of 298
+Sending packet 201 of 298
+Sending packet 202 of 298
+Sending packet 203 of 298
+Sending packet 204 of 298
+Sending packet 205 of 298
+Sending packet 206 of 298
+Sending packet 207 of 298
+Sending packet 208 of 298
+Sending packet 209 of 298
+Sending packet 210 of 298
+Sending packet 211 of 298
+Sending packet 212 of 298
+Sending packet 213 of 298
+Sending packet 214 of 298
+Sending packet 215 of 298
+Sending packet 216 of 298
+Sending packet 217 of 298
+Sending packet 218 of 298
+Sending packet 219 of 298
+Sending packet 220 of 298
+Sending packet 221 of 298
+Sending packet 222 of 298
+Sending packet 223 of 298
+Sending packet 224 of 298
+Sending packet 225 of 298
+Sending packet 226 of 298
+Sending packet 227 of 298
+Sending packet 228 of 298
+Sending packet 229 of 298
+Sending packet 230 of 298
+Sending packet 231 of 298
+Sending packet 232 of 298
+Sending packet 233 of 298
+Sending packet 234 of 298
+Sending packet 235 of 298
+Sending packet 236 of 298
+Sending packet 237 of 298
+Sending packet 238 of 298
+Sending packet 239 of 298
+Sending packet 240 of 298
+Sending packet 241 of 298
+Sending packet 242 of 298
+Sending packet 243 of 298
+Sending packet 244 of 298
+Sending packet 245 of 298
+Sending packet 246 of 298
+Sending packet 247 of 298
+Sending packet 248 of 298
+Sending packet 249 of 298
+Sending packet 250 of 298
+Sending packet 251 of 298
+Sending packet 252 of 298
+Sending packet 253 of 298
+Sending packet 254 of 298
+Sending packet 255 of 298
+Sending packet 256 of 298
+Sending packet 257 of 298
+Sending packet 258 of 298
+Sending packet 259 of 298
+Sending packet 260 of 298
+Sending packet 261 of 298
+Sending packet 262 of 298
+Sending packet 263 of 298
+Sending packet 264 of 298
+Sending packet 265 of 298
+Sending packet 266 of 298
+Sending packet 267 of 298
+Sending packet 268 of 298
+Sending packet 269 of 298
+Sending packet 270 of 298
+Sending packet 271 of 298
+Sending packet 272 of 298
+Sending packet 273 of 298
+Sending packet 274 of 298
+Sending packet 275 of 298
+Sending packet 276 of 298
+Sending packet 277 of 298
+Sending packet 278 of 298
+Sending packet 279 of 298
+Sending packet 280 of 298
+Sending packet 281 of 298
+Sending packet 282 of 298
+Sending packet 283 of 298
+Sending packet 284 of 298
+Sending packet 285 of 298
+Sending packet 286 of 298
+Sending packet 287 of 298
+Sending packet 288 of 298
+Sending packet 289 of 298
+Sending packet 290 of 298
+Sending packet 291 of 298
+Sending packet 292 of 298
+Sending packet 293 of 298
+Sending packet 294 of 298
+Sending packet 295 of 298
+Sending packet 296 of 298
+Sending packet 297 of 298
+Sending packet 298 of 298
+Enter command: Filename: a2.txt
+Getting file: a2.txt
+Received DATA block 1 of size 512 bytes
+Received DATA block 2 of size 512 bytes
+Received DATA block 3 of size 512 bytes
+Received DATA block 4 of size 512 bytes
+Received DATA block 5 of size 512 bytes
+Received DATA block 6 of size 512 bytes
+Received DATA block 7 of size 512 bytes
+Received DATA block 8 of size 512 bytes
+Received DATA block 9 of size 512 bytes
+Received DATA block 10 of size 512 bytes
+Received DATA block 11 of size 512 bytes
+Received DATA block 12 of size 512 bytes
+Received DATA block 13 of size 512 bytes
+Received DATA block 14 of size 512 bytes
+Received DATA block 15 of size 512 bytes
+Received DATA block 16 of size 512 bytes
+Received DATA block 17 of size 512 bytes
+Received DATA block 18 of size 512 bytes
+Received DATA block 19 of size 512 bytes
+Received DATA block 20 of size 512 bytes
+Received DATA block 21 of size 512 bytes
+Received DATA block 22 of size 512 bytes
+Received DATA block 23 of size 512 bytes
+Received DATA block 24 of size 512 bytes
+Received DATA block 25 of size 512 bytes
+Received DATA block 26 of size 512 bytes
+Received DATA block 27 of size 512 bytes
+Received DATA block 28 of size 512 bytes
+Received DATA block 29 of size 512 bytes
+Received DATA block 30 of size 512 bytes
+Received DATA block 31 of size 512 bytes
+Received DATA block 32 of size 512 bytes
+Received DATA block 33 of size 512 bytes
+Received DATA block 34 of size 512 bytes
+Received DATA block 35 of size 512 bytes
+Received DATA block 36 of size 512 bytes
+Received DATA block 37 of size 512 bytes
+Received DATA block 38 of size 512 bytes
+Received DATA block 39 of size 512 bytes
+Received DATA block 40 of size 512 bytes
+Received DATA block 41 of size 512 bytes
+Received DATA block 42 of size 512 bytes
+Received DATA block 43 of size 512 bytes
+Received DATA block 44 of size 512 bytes
+Received DATA block 45 of size 512 bytes
+Received DATA block 46 of size 512 bytes
+Received DATA block 47 of size 512 bytes
+Received DATA block 48 of size 512 bytes
+Received DATA block 49 of size 512 bytes
+Received DATA block 50 of size 512 bytes
+Received DATA block 51 of size 512 bytes
+Received DATA block 52 of size 512 bytes
+Received DATA block 53 of size 512 bytes
+Received DATA block 54 of size 512 bytes
+Received DATA block 55 of size 512 bytes
+Received DATA block 56 of size 512 bytes
+Received DATA block 57 of size 512 bytes
+Received DATA block 58 of size 512 bytes
+Received DATA block 59 of size 512 bytes
+Received DATA block 60 of size 512 bytes
+Received DATA block 61 of size 512 bytes
+Received DATA block 62 of size 512 bytes
+Received DATA block 63 of size 512 bytes
+Received DATA block 64 of size 512 bytes
+Received DATA block 65 of size 512 bytes
+Received DATA block 66 of size 512 bytes
+Received DATA block 67 of size 512 bytes
+Received DATA block 68 of size 512 bytes
+Received DATA block 69 of size 512 bytes
+Received DATA block 70 of size 512 bytes
+Received DATA block 71 of size 512 bytes
+Received DATA block 72 of size 512 bytes
+Received DATA block 73 of size 512 bytes
+Received DATA block 74 of size 512 bytes
+Received DATA block 75 of size 512 bytes
+Received DATA block 76 of size 512 bytes
+Received DATA block 77 of size 512 bytes
+Received DATA block 78 of size 512 bytes
+Received DATA block 79 of size 512 bytes
+Received DATA block 80 of size 512 bytes
+Received DATA block 81 of size 512 bytes
+Received DATA block 82 of size 512 bytes
+Received DATA block 83 of size 512 bytes
+Received DATA block 84 of size 512 bytes
+Received DATA block 85 of size 512 bytes
+Received DATA block 86 of size 512 bytes
+Received DATA block 87 of size 512 bytes
+Received DATA block 88 of size 512 bytes
+Received DATA block 89 of size 512 bytes
+Received DATA block 90 of size 512 bytes
+Received DATA block 91 of size 512 bytes
+Received DATA block 92 of size 512 bytes
+Received DATA block 93 of size 512 bytes
+Received DATA block 94 of size 512 bytes
+Received DATA block 95 of size 512 bytes
+Received DATA block 96 of size 512 bytes
+Received DATA block 97 of size 512 bytes
+Received DATA block 98 of size 512 bytes
+Received DATA block 99 of size 512 bytes
+Received DATA block 100 of size 512 bytes
+Received DATA block 101 of size 512 bytes
+Received DATA block 102 of size 512 bytes
+Received DATA block 103 of size 512 bytes
+Received DATA block 104 of size 512 bytes
+Received DATA block 105 of size 512 bytes
+Received DATA block 106 of size 512 bytes
+Received DATA block 107 of size 512 bytes
+Received DATA block 108 of size 512 bytes
+Received DATA block 109 of size 512 bytes
+Received DATA block 110 of size 512 bytes
+Received DATA block 111 of size 512 bytes
+Received DATA block 112 of size 512 bytes
+Received DATA block 113 of size 512 bytes
+Received DATA block 114 of size 512 bytes
+Received DATA block 115 of size 512 bytes
+Received DATA block 116 of size 512 bytes
+Received DATA block 117 of size 512 bytes
+Received DATA block 118 of size 512 bytes
+Received DATA block 119 of size 512 bytes
+Received DATA block 120 of size 512 bytes
+Received DATA block 121 of size 512 bytes
+Received DATA block 122 of size 512 bytes
+Received DATA block 123 of size 512 bytes
+Received DATA block 124 of size 512 bytes
+Received DATA block 125 of size 512 bytes
+Received DATA block 126 of size 512 bytes
+Received DATA block 127 of size 512 bytes
+Received DATA block 128 of size 512 bytes
+Received DATA block 129 of size 512 bytes
+Received DATA block 130 of size 512 bytes
+Received DATA block 131 of size 512 bytes
+Received DATA block 132 of size 512 bytes
+Received DATA block 133 of size 512 bytes
+Received DATA block 134 of size 512 bytes
+Received DATA block 135 of size 512 bytes
+Received DATA block 136 of size 512 bytes
+Received DATA block 137 of size 512 bytes
+Received DATA block 138 of size 512 bytes
+Received DATA block 139 of size 512 bytes
+Received DATA block 140 of size 512 bytes
+Received DATA block 141 of size 512 bytes
+Received DATA block 142 of size 512 bytes
+Received DATA block 143 of size 512 bytes
+Received DATA block 144 of size 512 bytes
+Received DATA block 145 of size 512 bytes
+Received DATA block 146 of size 512 bytes
+Received DATA block 147 of size 512 bytes
+Received DATA block 148 of size 512 bytes
+Received DATA block 149 of size 512 bytes
+Received DATA block 150 of size 512 bytes
+Received DATA block 151 of size 512 bytes
+Received DATA block 152 of size 512 bytes
+Received DATA block 153 of size 512 bytes
+Received DATA block 154 of size 512 bytes
+Received DATA block 155 of size 512 bytes
+Received DATA block 156 of size 512 bytes
+Received DATA block 157 of size 512 bytes
+Received DATA block 158 of size 512 bytes
+Received DATA block 159 of size 512 bytes
+Received DATA block 160 of size 512 bytes
+Received DATA block 161 of size 512 bytes
+Received DATA block 162 of size 512 bytes
+Received DATA block 163 of size 512 bytes
+Received DATA block 164 of size 512 bytes
+Received DATA block 165 of size 512 bytes
+Received DATA block 166 of size 512 bytes
+Received DATA block 167 of size 512 bytes
+Received DATA block 168 of size 512 bytes
+Received DATA block 169 of size 512 bytes
+Received DATA block 170 of size 512 bytes
+Received DATA block 171 of size 512 bytes
+Received DATA block 172 of size 512 bytes
+Received DATA block 173 of size 512 bytes
+Received DATA block 174 of size 512 bytes
+Received DATA block 175 of size 512 bytes
+Received DATA block 176 of size 512 bytes
+Received DATA block 177 of size 512 bytes
+Received DATA block 178 of size 512 bytes
+Received DATA block 179 of size 512 bytes
+Received DATA block 180 of size 512 bytes
+Received DATA block 181 of size 512 bytes
+Received DATA block 182 of size 512 bytes
+Received DATA block 183 of size 512 bytes
+Received DATA block 184 of size 512 bytes
+Received DATA block 185 of size 512 bytes
+Received DATA block 186 of size 512 bytes
+Received DATA block 187 of size 512 bytes
+Received DATA block 188 of size 512 bytes
+Received DATA block 189 of size 512 bytes
+Received DATA block 190 of size 512 bytes
+Received DATA block 191 of size 512 bytes
+Received DATA block 192 of size 512 bytes
+Received DATA block 193 of size 512 bytes
+Received DATA block 194 of size 512 bytes
+Received DATA block 195 of size 512 bytes
+Received DATA block 196 of size 512 bytes
+Received DATA block 197 of size 512 bytes
+Received DATA block 198 of size 512 bytes
+Received DATA block 199 of size 512 bytes
+Received DATA block 200 of size 512 bytes
+Received DATA block 201 of size 512 bytes
+Received DATA block 202 of size 512 bytes
+Received DATA block 203 of size 512 bytes
+Received DATA block 204 of size 512 bytes
+Received DATA block 205 of size 512 bytes
+Received DATA block 206 of size 512 bytes
+Received DATA block 207 of size 512 bytes
+Received DATA block 208 of size 512 bytes
+Received DATA block 209 of size 512 bytes
+Received DATA block 210 of size 512 bytes
+Received DATA block 211 of size 512 bytes
+Received DATA block 212 of size 512 bytes
+Received DATA block 213 of size 512 bytes
+Received DATA block 214 of size 512 bytes
+Received DATA block 215 of size 512 bytes
+Received DATA block 216 of size 512 bytes
+Received DATA block 217 of size 512 bytes
+Received DATA block 218 of size 512 bytes
+Received DATA block 219 of size 512 bytes
+Received DATA block 220 of size 512 bytes
+Received DATA block 221 of size 512 bytes
+Received DATA block 222 of size 512 bytes
+Received DATA block 223 of size 512 bytes
+Received DATA block 224 of size 512 bytes
+Received DATA block 225 of size 512 bytes
+Received DATA block 226 of size 512 bytes
+Received DATA block 227 of size 512 bytes
+Received DATA block 228 of size 512 bytes
+Received DATA block 229 of size 512 bytes
+Received DATA block 230 of size 512 bytes
+Received DATA block 231 of size 512 bytes
+Received DATA block 232 of size 512 bytes
+Received DATA block 233 of size 512 bytes
+Received DATA block 234 of size 512 bytes
+Received DATA block 235 of size 512 bytes
+Received DATA block 236 of size 512 bytes
+Received DATA block 237 of size 512 bytes
+Received DATA block 238 of size 512 bytes
+Received DATA block 239 of size 512 bytes
+Received DATA block 240 of size 512 bytes
+Received DATA block 241 of size 512 bytes
+Received DATA block 242 of size 512 bytes
+Received DATA block 243 of size 512 bytes
+Received DATA block 244 of size 512 bytes
+Received DATA block 245 of size 512 bytes
+Received DATA block 246 of size 512 bytes
+Received DATA block 247 of size 512 bytes
+Received DATA block 248 of size 512 bytes
+Received DATA block 249 of size 512 bytes
+Received DATA block 250 of size 512 bytes
+Received DATA block 251 of size 512 bytes
+Received DATA block 252 of size 512 bytes
+Received DATA block 253 of size 512 bytes
+Received DATA block 254 of size 512 bytes
+Received DATA block 255 of size 512 bytes
+Received DATA block 256 of size 512 bytes
+Received DATA block 257 of size 512 bytes
+Received DATA block 258 of size 512 bytes
+Received DATA block 259 of size 512 bytes
+Received DATA block 260 of size 512 bytes
+Received DATA block 261 of size 512 bytes
+Received DATA block 262 of size 512 bytes
+Received DATA block 263 of size 512 bytes
+Received DATA block 264 of size 512 bytes
+Received DATA block 265 of size 512 bytes
+Received DATA block 266 of size 512 bytes
+Received DATA block 267 of size 512 bytes
+Received DATA block 268 of size 512 bytes
+Received DATA block 269 of size 512 bytes
+Received DATA block 270 of size 512 bytes
+Received DATA block 271 of size 512 bytes
+Received DATA block 272 of size 512 bytes
+Received DATA block 273 of size 512 bytes
+Received DATA block 274 of size 512 bytes
+Received DATA block 275 of size 512 bytes
+Received DATA block 276 of size 512 bytes
+Received DATA block 277 of size 512 bytes
+Received DATA block 278 of size 512 bytes
+Received DATA block 279 of size 512 bytes
+Received DATA block 280 of size 512 bytes
+Received DATA block 281 of size 512 bytes
+Received DATA block 282 of size 512 bytes
+Received DATA block 283 of size 512 bytes
+Received DATA block 284 of size 512 bytes
+Received DATA block 285 of size 512 bytes
+Received DATA block 286 of size 512 bytes
+Received DATA block 287 of size 512 bytes
+Received DATA block 288 of size 512 bytes
+Received DATA block 289 of size 512 bytes
+Received DATA block 290 of size 512 bytes
+Received DATA block 291 of size 512 bytes
+Received DATA block 292 of size 512 bytes
+Received DATA block 293 of size 512 bytes
+Received DATA block 294 of size 512 bytes
+Received DATA block 295 of size 512 bytes
+Received DATA block 296 of size 512 bytes
+Received DATA block 297 of size 512 bytes
+Received DATA block 298 of size 109 bytes
+Saving file to: /Users/rafiksongoku/Documents/NetworksCoursework/TFTP-TCP-Client/src/a2.txt
+Enter command: Filename: a3.txt
+Sending packet 1 of 13
+Sending packet 2 of 13
+Sending packet 3 of 13
+Sending packet 4 of 13
+Sending packet 5 of 13
+Sending packet 6 of 13
+Sending packet 7 of 13
+Sending packet 8 of 13
+Sending packet 9 of 13
+Sending packet 10 of 13
+Sending packet 11 of 13
+Sending packet 12 of 13
+Sending packet 13 of 13
+Enter command: Filename: a3.txt
+Getting file: a3.txt
+Received DATA block 1 of size 512 bytes
+Received DATA block 2 of size 512 bytes
+Received DATA block 3 of size 512 bytes
+Received DATA block 4 of size 512 bytes
+Received DATA block 5 of size 512 bytes
+Received DATA block 6 of size 512 bytes
+Received DATA block 7 of size 512 bytes
+Received DATA block 8 of size 512 bytes
+Received DATA block 9 of size 512 bytes
+Received DATA block 10 of size 512 bytes
+Received DATA block 11 of size 512 bytes
+Received DATA block 12 of size 512 bytes
+Received DATA block 13 of size 16 bytes
+Saving file to: /Users/rafiksongoku/Documents/NetworksCoursework/TFTP-TCP-Client/src/a3.txt
+Enter command: Usage: 
+	transmit <filename> - This would upload the file to the server
+	receive <filename> - This would download the file from the server
+	exit - exits the program
+	help - prints this help message
+
+Enter command: Transform Your File Transfer Process with Our Program!
+Usage: 
+	transmit <filename> - This would upload the file to the server
+	receive <filename> - This would download the file from the server
+	exit - exits the program
+	help - prints this help message
+
+Enter command: Filename: a3.txt
+Sending packet 1 of 13
+Sending packet 2 of 13
+Sending packet 3 of 13
+Sending packet 4 of 13
+Sending packet 5 of 13
+Sending packet 6 of 13
+Sending packet 7 of 13
+Sending packet 8 of 13
+Sending packet 9 of 13
+Sending packet 10 of 13
+Sending packet 11 of 13
+Sending packet 12 of 13
+Sending packet 13 of 13
+Enter command: Transform Your File Transfer Process with Our Program!
+Usage: 
+	transmit <filename> - This would upload the file to the server
+	receive <filename> - This would download the file from the server
+	exit - exits the program
+	help - prints this help message
+
+Enter command: Usage: 
+	transmit <filename> - This would upload the file to the server
+	receive <filename> - This would download the file from the server
+	exit - exits the program
+	help - prints this help message
+
+Enter command: Filename: a0.txt
+Enter command: Filename: a3.txt
+Sending packet 1 of 13
+Sending packet 2 of 13
+Sending packet 3 of 13
+Sending packet 4 of 13
+Sending packet 5 of 13
+Sending packet 6 of 13
+Sending packet 7 of 13
+Sending packet 8 of 13
+Sending packet 9 of 13
+Sending packet 10 of 13
+Sending packet 11 of 13
+Sending packet 12 of 13
+Sending packet 13 of 13
+Enter command: ======================================================
+Transform Your File Transfer Process with Our Program!
+======================================================
+	Choose Option below: 
+	=====================
+Usage: 
+	transmit <filename> - (This would upload the file to the server)
+	receive <filename> - (This would download the file from the server)
+	exit - Exits the program
+	help - Prints the Menu message again
+
+Enter command: Filename: a0.txt
+Enter command: Filename: a1.txt
+Sending packet 1 of 5
+Sending packet 2 of 5
+Sending packet 3 of 5
+Sending packet 4 of 5
+Sending packet 5 of 5
+Enter command: Filename: a2.txt
+Getting file: a2.txt
+Enter command: Filename: a2.txt
+Sending packet 1 of 298
+Sending packet 2 of 298
+Sending packet 3 of 298
+Sending packet 4 of 298
+Sending packet 5 of 298
+Sending packet 6 of 298
+Sending packet 7 of 298
+Sending packet 8 of 298
+Sending packet 9 of 298
+Sending packet 10 of 298
+Sending packet 11 of 298
+Sending packet 12 of 298
+Sending packet 13 of 298
+Sending packet 14 of 298
+Sending packet 15 of 298
+Sending packet 16 of 298
+Sending packet 17 of 298
+Sending packet 18 of 298
+Sending packet 19 of 298
+Sending packet 20 of 298
+Sending packet 21 of 298
+Sending packet 22 of 298
+Sending packet 23 of 298
+Sending packet 24 of 298
+Sending packet 25 of 298
+Sending packet 26 of 298
+Sending packet 27 of 298
+Sending packet 28 of 298
+Sending packet 29 of 298
+Sending packet 30 of 298
+Sending packet 31 of 298
+Sending packet 32 of 298
+Sending packet 33 of 298
+Sending packet 34 of 298
+Sending packet 35 of 298
+Sending packet 36 of 298
+Sending packet 37 of 298
+Sending packet 38 of 298
+Sending packet 39 of 298
+Sending packet 40 of 298
+Sending packet 41 of 298
+Sending packet 42 of 298
+Sending packet 43 of 298
+Sending packet 44 of 298
+Sending packet 45 of 298
+Sending packet 46 of 298
+Sending packet 47 of 298
+Sending packet 48 of 298
+Sending packet 49 of 298
+Sending packet 50 of 298
+Sending packet 51 of 298
+Sending packet 52 of 298
+Sending packet 53 of 298
+Sending packet 54 of 298
+Sending packet 55 of 298
+Sending packet 56 of 298
+Sending packet 57 of 298
+Sending packet 58 of 298
+Sending packet 59 of 298
+Sending packet 60 of 298
+Sending packet 61 of 298
+Sending packet 62 of 298
+Sending packet 63 of 298
+Sending packet 64 of 298
+Sending packet 65 of 298
+Sending packet 66 of 298
+Sending packet 67 of 298
+Sending packet 68 of 298
+Sending packet 69 of 298
+Sending packet 70 of 298
+Sending packet 71 of 298
+Sending packet 72 of 298
+Sending packet 73 of 298
+Sending packet 74 of 298
+Sending packet 75 of 298
+Sending packet 76 of 298
+Sending packet 77 of 298
+Sending packet 78 of 298
+Sending packet 79 of 298
+Sending packet 80 of 298
+Sending packet 81 of 298
+Sending packet 82 of 298
+Sending packet 83 of 298
+Sending packet 84 of 298
+Sending packet 85 of 298
+Sending packet 86 of 298
+Sending packet 87 of 298
+Sending packet 88 of 298
+Sending packet 89 of 298
+Sending packet 90 of 298
+Sending packet 91 of 298
+Sending packet 92 of 298
+Sending packet 93 of 298
+Sending packet 94 of 298
+Sending packet 95 of 298
+Sending packet 96 of 298
+Sending packet 97 of 298
+Sending packet 98 of 298
+Sending packet 99 of 298
+Sending packet 100 of 298
+Sending packet 101 of 298
+Sending packet 102 of 298
+Sending packet 103 of 298
+Sending packet 104 of 298
+Sending packet 105 of 298
+Sending packet 106 of 298
+Sending packet 107 of 298
+Sending packet 108 of 298
+Sending packet 109 of 298
+Sending packet 110 of 298
+Sending packet 111 of 298
+Sending packet 112 of 298
+Sending packet 113 of 298
+Sending packet 114 of 298
+Sending packet 115 of 298
+Sending packet 116 of 298
+Sending packet 117 of 298
+Sending packet 118 of 298
+Sending packet 119 of 298
+Sending packet 120 of 298
+Sending packet 121 of 298
+Sending packet 122 of 298
+Sending packet 123 of 298
+Sending packet 124 of 298
+Sending packet 125 of 298
+Sending packet 126 of 298
+Sending packet 127 of 298
+Sending packet 128 of 298
+Sending packet 129 of 298
+Sending packet 130 of 298
+Sending packet 131 of 298
+Sending packet 132 of 298
+Sending packet 133 of 298
+Sending packet 134 of 298
+Sending packet 135 of 298
+Sending packet 136 of 298
+Sending packet 137 of 298
+Sending packet 138 of 298
+Sending packet 139 of 298
+Sending packet 140 of 298
+Sending packet 141 of 298
+Sending packet 142 of 298
+Sending packet 143 of 298
+Sending packet 144 of 298
+Sending packet 145 of 298
+Sending packet 146 of 298
+Sending packet 147 of 298
+Sending packet 148 of 298
+Sending packet 149 of 298
+Sending packet 150 of 298
+Sending packet 151 of 298
+Sending packet 152 of 298
+Sending packet 153 of 298
+Sending packet 154 of 298
+Sending packet 155 of 298
+Sending packet 156 of 298
+Sending packet 157 of 298
+Sending packet 158 of 298
+Sending packet 159 of 298
+Sending packet 160 of 298
+Sending packet 161 of 298
+Sending packet 162 of 298
+Sending packet 163 of 298
+Sending packet 164 of 298
+Sending packet 165 of 298
+Sending packet 166 of 298
+Sending packet 167 of 298
+Sending packet 168 of 298
+Sending packet 169 of 298
+Sending packet 170 of 298
+Sending packet 171 of 298
+Sending packet 172 of 298
+Sending packet 173 of 298
+Sending packet 174 of 298
+Sending packet 175 of 298
+Sending packet 176 of 298
+Sending packet 177 of 298
+Sending packet 178 of 298
+Sending packet 179 of 298
+Sending packet 180 of 298
+Sending packet 181 of 298
+Sending packet 182 of 298
+Sending packet 183 of 298
+Sending packet 184 of 298
+Sending packet 185 of 298
+Sending packet 186 of 298
+Sending packet 187 of 298
+Sending packet 188 of 298
+Sending packet 189 of 298
+Sending packet 190 of 298
+Sending packet 191 of 298
+Sending packet 192 of 298
+Sending packet 193 of 298
+Sending packet 194 of 298
+Sending packet 195 of 298
+Sending packet 196 of 298
+Sending packet 197 of 298
+Sending packet 198 of 298
+Sending packet 199 of 298
+Sending packet 200 of 298
+Sending packet 201 of 298
+Sending packet 202 of 298
+Sending packet 203 of 298
+Sending packet 204 of 298
+Sending packet 205 of 298
+Sending packet 206 of 298
+Sending packet 207 of 298
+Sending packet 208 of 298
+Sending packet 209 of 298
+Sending packet 210 of 298
+Sending packet 211 of 298
+Sending packet 212 of 298
+Sending packet 213 of 298
+Sending packet 214 of 298
+Sending packet 215 of 298
+Sending packet 216 of 298
+Sending packet 217 of 298
+Sending packet 218 of 298
+Sending packet 219 of 298
+Sending packet 220 of 298
+Sending packet 221 of 298
+Sending packet 222 of 298
+Sending packet 223 of 298
+Sending packet 224 of 298
+Sending packet 225 of 298
+Sending packet 226 of 298
+Sending packet 227 of 298
+Sending packet 228 of 298
+Sending packet 229 of 298
+Sending packet 230 of 298
+Sending packet 231 of 298
+Sending packet 232 of 298
+Sending packet 233 of 298
+Sending packet 234 of 298
+Sending packet 235 of 298
+Sending packet 236 of 298
+Sending packet 237 of 298
+Sending packet 238 of 298
+Sending packet 239 of 298
+Sending packet 240 of 298
+Sending packet 241 of 298
+Sending packet 242 of 298
+Sending packet 243 of 298
+Sending packet 244 of 298
+Sending packet 245 of 298
+Sending packet 246 of 298
+Sending packet 247 of 298
+Sending packet 248 of 298
+Sending packet 249 of 298
+Sending packet 250 of 298
+Sending packet 251 of 298
+Sending packet 252 of 298
+Sending packet 253 of 298
+Sending packet 254 of 298
+Sending packet 255 of 298
+Sending packet 256 of 298
+Sending packet 257 of 298
+Sending packet 258 of 298
+Sending packet 259 of 298
+Sending packet 260 of 298
+Sending packet 261 of 298
+Sending packet 262 of 298
+Sending packet 263 of 298
+Sending packet 264 of 298
+Sending packet 265 of 298
+Sending packet 266 of 298
+Sending packet 267 of 298
+Sending packet 268 of 298
+Sending packet 269 of 298
+Sending packet 270 of 298
+Sending packet 271 of 298
+Sending packet 272 of 298
+Sending packet 273 of 298
+Sending packet 274 of 298
+Sending packet 275 of 298
+Sending packet 276 of 298
+Sending packet 277 of 298
+Sending packet 278 of 298
+Sending packet 279 of 298
+Sending packet 280 of 298
+Sending packet 281 of 298
+Sending packet 282 of 298
+Sending packet 283 of 298
+Sending packet 284 of 298
+Sending packet 285 of 298
+Sending packet 286 of 298
+Sending packet 287 of 298
+Sending packet 288 of 298
+Sending packet 289 of 298
+Sending packet 290 of 298
+Sending packet 291 of 298
+Sending packet 292 of 298
+Sending packet 293 of 298
+Sending packet 294 of 298
+Sending packet 295 of 298
+Sending packet 296 of 298
+Sending packet 297 of 298
+Sending packet 298 of 298
+Enter command: Filename: a2.txt
+Getting file: a2.txt
+Received DATA block 1 of size 512 bytes
+Received DATA block 2 of size 512 bytes
+Received DATA block 3 of size 512 bytes
+Received DATA block 4 of size 512 bytes
+Received DATA block 5 of size 512 bytes
+Received DATA block 6 of size 512 bytes
+Received DATA block 7 of size 512 bytes
+Received DATA block 8 of size 512 bytes
+Received DATA block 9 of size 512 bytes
+Received DATA block 10 of size 512 bytes
+Received DATA block 11 of size 512 bytes
+Received DATA block 12 of size 512 bytes
+Received DATA block 13 of size 512 bytes
+Received DATA block 14 of size 512 bytes
+Received DATA block 15 of size 512 bytes
+Received DATA block 16 of size 512 bytes
+Received DATA block 17 of size 512 bytes
+Received DATA block 18 of size 512 bytes
+Received DATA block 19 of size 512 bytes
+Received DATA block 20 of size 512 bytes
+Received DATA block 21 of size 512 bytes
+Received DATA block 22 of size 512 bytes
+Received DATA block 23 of size 512 bytes
+Received DATA block 24 of size 512 bytes
+Received DATA block 25 of size 512 bytes
+Received DATA block 26 of size 512 bytes
+Received DATA block 27 of size 512 bytes
+Received DATA block 28 of size 512 bytes
+Received DATA block 29 of size 512 bytes
+Received DATA block 30 of size 512 bytes
+Received DATA block 31 of size 512 bytes
+Received DATA block 32 of size 512 bytes
+Received DATA block 33 of size 512 bytes
+Received DATA block 34 of size 512 bytes
+Received DATA block 35 of size 512 bytes
+Received DATA block 36 of size 512 bytes
+Received DATA block 37 of size 512 bytes
+Received DATA block 38 of size 512 bytes
+Received DATA block 39 of size 512 bytes
+Received DATA block 40 of size 512 bytes
+Received DATA block 41 of size 512 bytes
+Received DATA block 42 of size 512 bytes
+Received DATA block 43 of size 512 bytes
+Received DATA block 44 of size 512 bytes
+Received DATA block 45 of size 512 bytes
+Received DATA block 46 of size 512 bytes
+Received DATA block 47 of size 512 bytes
+Received DATA block 48 of size 512 bytes
+Received DATA block 49 of size 512 bytes
+Received DATA block 50 of size 512 bytes
+Received DATA block 51 of size 512 bytes
+Received DATA block 52 of size 512 bytes
+Received DATA block 53 of size 512 bytes
+Received DATA block 54 of size 512 bytes
+Received DATA block 55 of size 512 bytes
+Received DATA block 56 of size 512 bytes
+Received DATA block 57 of size 512 bytes
+Received DATA block 58 of size 512 bytes
+Received DATA block 59 of size 512 bytes
+Received DATA block 60 of size 512 bytes
+Received DATA block 61 of size 512 bytes
+Received DATA block 62 of size 512 bytes
+Received DATA block 63 of size 512 bytes
+Received DATA block 64 of size 512 bytes
+Received DATA block 65 of size 512 bytes
+Received DATA block 66 of size 512 bytes
+Received DATA block 67 of size 512 bytes
+Received DATA block 68 of size 512 bytes
+Received DATA block 69 of size 512 bytes
+Received DATA block 70 of size 512 bytes
+Received DATA block 71 of size 512 bytes
+Received DATA block 72 of size 512 bytes
+Received DATA block 73 of size 512 bytes
+Received DATA block 74 of size 512 bytes
+Received DATA block 75 of size 512 bytes
+Received DATA block 76 of size 512 bytes
+Received DATA block 77 of size 512 bytes
+Received DATA block 78 of size 512 bytes
+Received DATA block 79 of size 512 bytes
+Received DATA block 80 of size 512 bytes
+Received DATA block 81 of size 512 bytes
+Received DATA block 82 of size 512 bytes
+Received DATA block 83 of size 512 bytes
+Received DATA block 84 of size 512 bytes
+Received DATA block 85 of size 512 bytes
+Received DATA block 86 of size 512 bytes
+Received DATA block 87 of size 512 bytes
+Received DATA block 88 of size 512 bytes
+Received DATA block 89 of size 512 bytes
+Received DATA block 90 of size 512 bytes
+Received DATA block 91 of size 512 bytes
+Received DATA block 92 of size 512 bytes
+Received DATA block 93 of size 512 bytes
+Received DATA block 94 of size 512 bytes
+Received DATA block 95 of size 512 bytes
+Received DATA block 96 of size 512 bytes
+Received DATA block 97 of size 512 bytes
+Received DATA block 98 of size 512 bytes
+Received DATA block 99 of size 512 bytes
+Received DATA block 100 of size 512 bytes
+Received DATA block 101 of size 512 bytes
+Received DATA block 102 of size 512 bytes
+Received DATA block 103 of size 512 bytes
+Received DATA block 104 of size 512 bytes
+Received DATA block 105 of size 512 bytes
+Received DATA block 106 of size 512 bytes
+Received DATA block 107 of size 512 bytes
+Received DATA block 108 of size 512 bytes
+Received DATA block 109 of size 512 bytes
+Received DATA block 110 of size 512 bytes
+Received DATA block 111 of size 512 bytes
+Received DATA block 112 of size 512 bytes
+Received DATA block 113 of size 512 bytes
+Received DATA block 114 of size 512 bytes
+Received DATA block 115 of size 512 bytes
+Received DATA block 116 of size 512 bytes
+Received DATA block 117 of size 512 bytes
+Received DATA block 118 of size 512 bytes
+Received DATA block 119 of size 512 bytes
+Received DATA block 120 of size 512 bytes
+Received DATA block 121 of size 512 bytes
+Received DATA block 122 of size 512 bytes
+Received DATA block 123 of size 512 bytes
+Received DATA block 124 of size 512 bytes
+Received DATA block 125 of size 512 bytes
+Received DATA block 126 of size 512 bytes
+Received DATA block 127 of size 512 bytes
+Received DATA block 128 of size 512 bytes
+Received DATA block 129 of size 512 bytes
+Received DATA block 130 of size 512 bytes
+Received DATA block 131 of size 512 bytes
+Received DATA block 132 of size 512 bytes
+Received DATA block 133 of size 512 bytes
+Received DATA block 134 of size 512 bytes
+Received DATA block 135 of size 512 bytes
+Received DATA block 136 of size 512 bytes
+Received DATA block 137 of size 512 bytes
+Received DATA block 138 of size 512 bytes
+Received DATA block 139 of size 512 bytes
+Received DATA block 140 of size 512 bytes
+Received DATA block 141 of size 512 bytes
+Received DATA block 142 of size 512 bytes
+Received DATA block 143 of size 512 bytes
+Received DATA block 144 of size 512 bytes
+Received DATA block 145 of size 512 bytes
+Received DATA block 146 of size 512 bytes
+Received DATA block 147 of size 512 bytes
+Received DATA block 148 of size 512 bytes
+Received DATA block 149 of size 512 bytes
+Received DATA block 150 of size 512 bytes
+Received DATA block 151 of size 512 bytes
+Received DATA block 152 of size 512 bytes
+Received DATA block 153 of size 512 bytes
+Received DATA block 154 of size 512 bytes
+Received DATA block 155 of size 512 bytes
+Received DATA block 156 of size 512 bytes
+Received DATA block 157 of size 512 bytes
+Received DATA block 158 of size 512 bytes
+Received DATA block 159 of size 512 bytes
+Received DATA block 160 of size 512 bytes
+Received DATA block 161 of size 512 bytes
+Received DATA block 162 of size 512 bytes
+Received DATA block 163 of size 512 bytes
+Received DATA block 164 of size 512 bytes
+Received DATA block 165 of size 512 bytes
+Received DATA block 166 of size 512 bytes
+Received DATA block 167 of size 512 bytes
+Received DATA block 168 of size 512 bytes
+Received DATA block 169 of size 512 bytes
+Received DATA block 170 of size 512 bytes
+Received DATA block 171 of size 512 bytes
+Received DATA block 172 of size 512 bytes
+Received DATA block 173 of size 512 bytes
+Received DATA block 174 of size 512 bytes
+Received DATA block 175 of size 512 bytes
+Received DATA block 176 of size 512 bytes
+Received DATA block 177 of size 512 bytes
+Received DATA block 178 of size 512 bytes
+Received DATA block 179 of size 512 bytes
+Received DATA block 180 of size 512 bytes
+Received DATA block 181 of size 512 bytes
+Received DATA block 182 of size 512 bytes
+Received DATA block 183 of size 512 bytes
+Received DATA block 184 of size 512 bytes
+Received DATA block 185 of size 512 bytes
+Received DATA block 186 of size 512 bytes
+Received DATA block 187 of size 512 bytes
+Received DATA block 188 of size 512 bytes
+Received DATA block 189 of size 512 bytes
+Received DATA block 190 of size 512 bytes
+Received DATA block 191 of size 512 bytes
+Received DATA block 192 of size 512 bytes
+Received DATA block 193 of size 512 bytes
+Received DATA block 194 of size 512 bytes
+Received DATA block 195 of size 512 bytes
+Received DATA block 196 of size 512 bytes
+Received DATA block 197 of size 512 bytes
+Received DATA block 198 of size 512 bytes
+Received DATA block 199 of size 512 bytes
+Received DATA block 200 of size 512 bytes
+Received DATA block 201 of size 512 bytes
+Received DATA block 202 of size 512 bytes
+Received DATA block 203 of size 512 bytes
+Received DATA block 204 of size 512 bytes
+Received DATA block 205 of size 512 bytes
+Received DATA block 206 of size 512 bytes
+Received DATA block 207 of size 512 bytes
+Received DATA block 208 of size 512 bytes
+Received DATA block 209 of size 512 bytes
+Received DATA block 210 of size 512 bytes
+Received DATA block 211 of size 512 bytes
+Received DATA block 212 of size 512 bytes
+Received DATA block 213 of size 512 bytes
+Received DATA block 214 of size 512 bytes
+Received DATA block 215 of size 512 bytes
+Received DATA block 216 of size 512 bytes
+Received DATA block 217 of size 512 bytes
+Received DATA block 218 of size 512 bytes
+Received DATA block 219 of size 512 bytes
+Received DATA block 220 of size 512 bytes
+Received DATA block 221 of size 512 bytes
+Received DATA block 222 of size 512 bytes
+Received DATA block 223 of size 512 bytes
+Received DATA block 224 of size 512 bytes
+Received DATA block 225 of size 512 bytes
+Received DATA block 226 of size 512 bytes
+Received DATA block 227 of size 512 bytes
+Received DATA block 228 of size 512 bytes
+Received DATA block 229 of size 512 bytes
+Received DATA block 230 of size 512 bytes
+Received DATA block 231 of size 512 bytes
+Received DATA block 232 of size 512 bytes
+Received DATA block 233 of size 512 bytes
+Received DATA block 234 of size 512 bytes
+Received DATA block 235 of size 512 bytes
+Received DATA block 236 of size 512 bytes
+Received DATA block 237 of size 512 bytes
+Received DATA block 238 of size 512 bytes
+Received DATA block 239 of size 512 bytes
+Received DATA block 240 of size 512 bytes
+Received DATA block 241 of size 512 bytes
+Received DATA block 242 of size 512 bytes
+Received DATA block 243 of size 512 bytes
+Received DATA block 244 of size 512 bytes
+Received DATA block 245 of size 512 bytes
+Received DATA block 246 of size 512 bytes
+Received DATA block 247 of size 512 bytes
+Received DATA block 248 of size 512 bytes
+Received DATA block 249 of size 512 bytes
+Received DATA block 250 of size 512 bytes
+Received DATA block 251 of size 512 bytes
+Received DATA block 252 of size 512 bytes
+Received DATA block 253 of size 512 bytes
+Received DATA block 254 of size 512 bytes
+Received DATA block 255 of size 512 bytes
+Received DATA block 256 of size 512 bytes
+Received DATA block 257 of size 512 bytes
+Received DATA block 258 of size 512 bytes
+Received DATA block 259 of size 512 bytes
+Received DATA block 260 of size 512 bytes
+Received DATA block 261 of size 512 bytes
+Received DATA block 262 of size 512 bytes
+Received DATA block 263 of size 512 bytes
+Received DATA block 264 of size 512 bytes
+Received DATA block 265 of size 512 bytes
+Received DATA block 266 of size 512 bytes
+Received DATA block 267 of size 512 bytes
+Received DATA block 268 of size 512 bytes
+Received DATA block 269 of size 512 bytes
+Received DATA block 270 of size 512 bytes
+Received DATA block 271 of size 512 bytes
+Received DATA block 272 of size 512 bytes
+Received DATA block 273 of size 512 bytes
+Received DATA block 274 of size 512 bytes
+Received DATA block 275 of size 512 bytes
+Received DATA block 276 of size 512 bytes
+Received DATA block 277 of size 512 bytes
+Received DATA block 278 of size 512 bytes
+Received DATA block 279 of size 512 bytes
+Received DATA block 280 of size 512 bytes
+Received DATA block 281 of size 512 bytes
+Received DATA block 282 of size 512 bytes
+Received DATA block 283 of size 512 bytes
+Received DATA block 284 of size 512 bytes
+Received DATA block 285 of size 512 bytes
+Received DATA block 286 of size 512 bytes
+Received DATA block 287 of size 512 bytes
+Received DATA block 288 of size 512 bytes
+Received DATA block 289 of size 512 bytes
+Received DATA block 290 of size 512 bytes
+Received DATA block 291 of size 512 bytes
+Received DATA block 292 of size 512 bytes
+Received DATA block 293 of size 512 bytes
+Received DATA block 294 of size 512 bytes
+Received DATA block 295 of size 512 bytes
+Received DATA block 296 of size 512 bytes
+Received DATA block 297 of size 512 bytes
+Received DATA block 298 of size 109 bytes
+Saving file to: /Users/rafiksongoku/Documents/NetCoursework/TFTP-TCP-Client/src/a2.txt
+Enter command: 
